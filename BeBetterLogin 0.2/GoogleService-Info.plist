@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>630011225822-0f9pb753c5afolaefmef0ini7bsuo0se.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.630011225822-0f9pb753c5afolaefmef0ini7bsuo0se</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>630011225822-m2fi69j81aj7sbhcs3e8r14pc9u3qb97.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD8FasjiFt39PPBrITve3m_hWPzavD3oUY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>630011225822</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>BeBetter.BeBetterLogin-0-2</string>
+	<key>PROJECT_ID</key>
+	<string>bebetterlogin</string>
+	<key>STORAGE_BUCKET</key>
+	<string>bebetterlogin.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:630011225822:ios:3b84058ff999f4a219044f</string>
+	<key>DATABASE_URL</key>
+	<string>https://bebetterlogin.firebaseio.com</string>
+</dict>
+</plist>
